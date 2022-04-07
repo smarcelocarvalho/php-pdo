@@ -1,2 +1,2 @@
-# php-pdo
-Curso de PDO
+# PHO - PDO
+Curso de PDO promovido pela Alura
