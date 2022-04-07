@@ -1,2 +1,3 @@
 # PHO - PDO
-Curso de PDO promovido pela Alura
+
+- Curso de PDO promovido pela Alura.
